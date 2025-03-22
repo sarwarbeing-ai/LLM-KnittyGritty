@@ -94,7 +94,7 @@ def moe():
         print(f"Current routing weights for the current selected token indices {top_x}:\n",routing_weights[top_x, idx, None])
         print(f"Current_hidden_states (output of the current expert layer {expert_idx}):\n",current_hidden_states) # output of the expert layer
 
-        # index_add_ function do the following
+        # index_add_ function does the following
         # if dim == 0, top_x[i] == j,
         # then the ith row of current_hidden_states is added from the jth row of final_hidden_states
         # example, i=0 and top_x[0]=4
