@@ -2,8 +2,8 @@ def moe():
     import torch
     from torch import nn
     import torch.nn.functional as F
-    # sequence: What is 1 + 1 ?
-    # tokenized: [What, is, 1, +, 1, ?] 
+    # sequences: ['What is 1 + 1 ?','Mixture of experts are typically FFNNs'] 
+    # tokenized: [['What', 'is', '1', '+', '1', '?'],['Mixture', 'of', 'experts', 'are', 'typically', 'FFNNs']]
     hidden_states=torch.normal(2, 3, size=(2, 6,5)) # (batch_size, seq_len, emb_dim), each token being represented as a 5 dimensional vector
     print("Hidden_states:\n",hidden_states) 
     num_experts=4 # each expert will be a FeedForward Neural Network (FFNN)
