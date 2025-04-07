@@ -79,5 +79,5 @@ _"The marketing strategy this year is centered around expanding influencer partn
 
 **Answer:** Yes  
 **Chunk:** _"In 2022, EcoTech hosted a Sustainability Summit in Northern Cascadia, bringing together 14 suppliers to explore climate-positive manufacturing. Workshops included carbon offsetting, waste reduction, and community-led reforestation."_  
-**Company:** EcoTech Industries
+**Company:** EcoTech Industries\n
 **Page:** 47
