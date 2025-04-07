@@ -65,13 +65,14 @@ _"Our logistics operations focus on cost and delivery optimization, without invo
 _"We are currently evaluating possible improvements in vendor performance for FY2023, with no mention of environmental or social governance."_  
 **Metadata:** Company: ByteMark Solutions | Page: 30
 
-**Context 4:**
-_"SolarNova has implemented a zero-landfill policy across all production units and aims to become carbon-neutral by 2027. As of this year, 70% of its energy usage comes from renewable sources."_
+**Context 4:**  
+_"SolarNova has implemented a zero-landfill policy across all production units and aims to become carbon-neutral by 2027. As of this year, 70% of its energy usage comes from renewable sources."_  
 **Metadata:** Company: SolarNova Technologies | Page: 5
 
-**Context 5:**
-_"The marketing strategy this year is centered around expanding influencer partnerships and entering new demographics, particularly Gen Z consumers."_
+**Context 5:**  
+_"The marketing strategy this year is centered around expanding influencer partnerships and entering new demographics, particularly Gen Z consumers."_  
 **Metadata:** Company: TrendSpire Media | Page: 91
+
 
 
 🤖 Assistant Response:
@@ -79,5 +80,4 @@ _"The marketing strategy this year is centered around expanding influencer partn
 **Answer:** Yes  
 **Chunk:** _"In 2022, EcoTech hosted a Sustainability Summit in Northern Cascadia, bringing together 14 suppliers to explore climate-positive manufacturing. Workshops included carbon offsetting, waste reduction, and community-led reforestation."_  
 **Company:** EcoTech Industries
-
 **Page:** 47
