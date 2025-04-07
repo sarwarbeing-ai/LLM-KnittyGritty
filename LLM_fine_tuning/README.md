@@ -67,16 +67,16 @@ _"We are currently evaluating possible improvements in vendor performance for FY
 
 **Context 4:**
 "SolarNova has implemented a zero-landfill policy across all production units and aims to become carbon-neutral by 2027. As of this year, 70% of its energy usage comes from renewable sources."
-Metadata: Company: SolarNova Technologies | Page: 5
+**Metadata:** Company: SolarNova Technologies | Page: 5
 
 **Context 5:**
 "The marketing strategy this year is centered around expanding influencer partnerships and entering new demographics, particularly Gen Z consumers."
-Metadata: Company: TrendSpire Media | Page: 91
+**Metadata:** Company: TrendSpire Media | Page: 91
 
 
 🤖 Assistant Response:
 
 **Answer:** Yes  
 **Chunk:** _"In 2022, EcoTech hosted a Sustainability Summit in Northern Cascadia, bringing together 14 suppliers to explore climate-positive manufacturing. Workshops included carbon offsetting, waste reduction, and community-led reforestation."_  
-**Page:** 47
 **Company:** EcoTech Industries
+**Page:** 47
